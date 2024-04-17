@@ -23,6 +23,7 @@ ul {
 li {
 	display: inline-block;
 	margin-left: 60px;
+	font-family: "DejaVu Sans", sans-serif;
 }
 
 a {
@@ -68,6 +69,7 @@ h3 {
 
 p {
 	font-size: 16px;
+	line-height: 19.2px;
 	font-weight: 400;
 	color: #4E6FAE;
 	display: inline-block;
@@ -100,7 +102,9 @@ p {
 	margin-left: 131px;
 	
 }
-
+.p{
+	font-family: "BPG Nostalgia", sans-serif;
+}
 .h3 {
 	width: 150px;
 	height: 34px;
@@ -113,7 +117,7 @@ p {
 	margin-top: 120px;
 	margin-left: 194px;
 	display: inline-block;
-
+	font-family: "DejaVu Sans", sans-serif;
 
 }
 
@@ -156,6 +160,7 @@ p {
 	position: relative;
 	bottom: 5px;
 	vertical-align: middle;
+	font-family: "Roboto", sans-serif;
 	
 }
 .span {
@@ -204,6 +209,7 @@ p {
 	display: inline-block;
 	position: relative;
 	vertical-align: middle;
+	font-family: "Roboto", sans-serif;
 }
 .container{
 	position: absolute;
@@ -211,6 +217,7 @@ p {
 	width: 100vw;
 	height: 735px;
 	background-color: #E7E7E7;
+	font-family: "DejaVu Sans", sans-serif;
 
 }
 .h1 {
