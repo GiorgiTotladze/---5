@@ -55,6 +55,7 @@ h2 {
 	color: #8D81FF;
 	margin-bottom: 18px;
 	display: inline-block;
+	font-family: "BPG Nino Mkhedruli", sans-serif;
 }
 
 h3 {
@@ -70,6 +71,7 @@ p {
 	font-weight: 400;
 	color: #4E6FAE;
 	display: inline-block;
+	font-family: "BPG Square", sans-serif;
 }
 
 .banner {
